@@ -1,2 +1,1 @@
-# first-repository 
-<!-- this it my first-repository file -->
+# This is my first repository readme file.
